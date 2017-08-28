@@ -31,5 +31,10 @@
       android:layout_width="368dp"
       android:layout_height="wrap_content"
       android:text="@string/reset_button"/>
+  <com.example.zhenqiangli.customview.customized.AnnotatableTextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:paddingTop="10dp"
+      android:text="@string/example_long_content"/>
 
 </LinearLayout>
